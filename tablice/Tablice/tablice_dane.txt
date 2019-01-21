@@ -1,0 +1,5 @@
+﻿Mikołaj Kopernik,20,18
+Adam Kasprzak,30,27
+Łukasz Jeleń,15,14
+Adam Kowalik,64,64
+Konrad Kowalecki,36,32

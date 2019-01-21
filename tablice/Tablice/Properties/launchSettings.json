@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "tablice": {
+      "commandName": "Project",
+      "commandLineArgs": "tablice_dane.txt"
+    }
+  }
+}
